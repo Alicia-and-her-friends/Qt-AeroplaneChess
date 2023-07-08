@@ -2,3 +2,4 @@
 
 下载后，记得将path.h文件中的file_path_改为QTSOURCES的地址。
 
+完整代码在Qt-Aeroplane.zip里，资源全部在QTSOURCES.zip里。
